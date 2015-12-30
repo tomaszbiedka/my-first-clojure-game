@@ -7,11 +7,11 @@ Drawings made by my 6-years-old daughter.
 
 ## How to run the game
 1) Download and install [Leiningen](http://leiningen.org/)
-2) Run "lein repl"".
+2) Run "lein repl" inside project folder.
 3) Run "(-main)" function inside repl.
 ```
 > lein repl
-> user=> (-main)
+> clojure-play-clj.core.desktop-launcher=> (-main)
 ```
 
 ## Change the game art
